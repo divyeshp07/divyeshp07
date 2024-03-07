@@ -12,9 +12,9 @@
 [![](https://visitcount.itsvg.in/api?id=divyeshp07&icon=9&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <h1>DIVYESH P</h1>
-  <h3>Flutter Developer</h3>
+<div align="left">
+  <h1># DIVYESH P</h1>
+  <h3>## Flutter Developer</h3>
   <p>🖥️ See my portfolio at <a href="">my portfolio</a></p>
   <p>📫 How to reach me: <a href="divyesh5262@gmail.com">divyesh5262@gmail.com</a></p>
   <!--<p>🌱 I’m currently working with Flutter</p>-->
