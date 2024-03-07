@@ -13,11 +13,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  <h1>💫 About Me:</h1>
-  <h3>I'm a passionate software developer !!</h3>
+  <h1>DIVYESH P</h1>
+  <h3>Flutter Developer</h3>
   <p>🖥️ See my portfolio at <a href="">my portfolio</a></p>
   <p>📫 How to reach me: <a href="divyesh5262@gmail.com">divyesh5262@gmail.com</a></p>
-  <p>🌱 I’m currently working with Flutter</p>
+  <!--<p>🌱 I’m currently working with Flutter</p>-->
   <p>🌍 I'm based in kannur, Kerala.</p>
 </div>
 
